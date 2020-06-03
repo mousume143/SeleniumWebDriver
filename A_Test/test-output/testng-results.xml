@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16065" started-at="2020-06-03T19:19:52Z" finished-at="2020-06-03T19:20:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16065" started-at="2020-06-03T19:19:52Z" finished-at="2020-06-03T19:20:08Z">
+      <class name="abc.Test_NG">
+        <test-method status="PASS" signature="verifyTestNG()[pri:0, instance:abc.Test_NG@50c87b21]" name="verifyTestNG" duration-ms="16049" started-at="2020-06-03T19:19:52Z" finished-at="2020-06-03T19:20:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTestNG -->
+      </class> <!-- abc.Test_NG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
